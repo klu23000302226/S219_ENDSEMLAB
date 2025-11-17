@@ -8,6 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+      
+  "homepage": "https://github.com/klu23000302226/S219_ENDSEMLAB.git",
   },
   "dependencies": {
     "axios": "^1.12.2",
